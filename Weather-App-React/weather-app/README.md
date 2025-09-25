@@ -1,2 +1,2 @@
 # React Weather App Assignment 
-Using Weatherapi.com for apikey
+Using free weather api: Weatherapi.com 
